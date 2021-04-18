@@ -1,6 +1,6 @@
 # Android-Developer-Guide
 
-Java:
+# Java:
 
 Could you please list object methods?
 
@@ -130,7 +130,7 @@ JDK, JVM and JRE!
 
 String pool! and String.intern()! Also please read this urgent article: https://javaranch.com/campfire/StoryPassBy.jsp
 
-Kotlin:
+# Kotlin:
 
 Initialization order in Kotlin (class fields, constructors, init blocks, what about inheritance)?
 
@@ -190,7 +190,7 @@ Difference between Sequences and Iterable?
 
 How does Coroutine work under the hood? https://proandroiddev.com/how-do-coroutines-work-under-the-hood-803e6e9da8bb 
 
-Android: 
+# Android: 
 
 What base components do you know and why they are base (pretty easy)
 
@@ -258,7 +258,7 @@ onDraw and paint?
 
 Dp vs Sp
 
-Advanced topics to cover:
+# Advanced topics to cover:
 
 RxJava:
 You have to read about hot and cold streams and the differences between them.
@@ -272,6 +272,7 @@ Debounce / Filter / First / Last / Take
 CombineLatest / Merge / Zip
 SubscribeOn / ObserveOn)
 And finally review subjects: At least Publish, Behaviour and Replay
+*(Practice questions on RX)
 
 Clean Architecture
 
@@ -289,7 +290,7 @@ SOLID
 Popular Design Patterns + Design Patterns used in Android
 
 
-Course & Reference Links:
+# Course & Reference Links:
 
 https://developer.android.com/courses/android-basics-kotlin/unit-1
 
@@ -309,7 +310,7 @@ Git Branching model: https://nvie.com/posts/a-successful-git-branching-model/
 
 https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-shared-flow/ 
 
- Kotlin DSL : https://docs.gradle.org/current/userguide/kotlin_dsl.html 
+Kotlin DSL : https://docs.gradle.org/current/userguide/kotlin_dsl.html 
  
 https://goobar.io/adding-ktlint-to-your-kotlin-project/ 
 
@@ -321,7 +322,7 @@ https://elizarov.medium.com/shared-flows-broadcast-channels-899b675e805c
 
 https://proandroiddev.com/dagger-2-part-three-new-possibilities-3daff12f7ebf 
 
-Code Labs:
+# Code Labs:
 
 https://codelabs.developers.google.com/codelabs/basic-android-kotlin-training-welcome/index.html?index=..%2F..index#1
 
