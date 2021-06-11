@@ -321,6 +321,8 @@ https://proandroiddev.com/mvi-architecture-with-kotlin-flows-and-channels-d36820
 https://elizarov.medium.com/shared-flows-broadcast-channels-899b675e805c 
 
 https://proandroiddev.com/dagger-2-part-three-new-possibilities-3daff12f7ebf 
+ 
+https://medium.com/androiddevelopers/create-an-application-coroutinescope-using-hilt-dd444e721528
 
 # Code Labs:
 
